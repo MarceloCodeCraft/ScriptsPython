@@ -32,6 +32,7 @@
 # peso = 105.00
 # msg = f'Olá, meu nome é {nome} e eu peso {peso} quilos.'
 # print(msg)
-print('ola mundo')
-
+#print('ola mundo')
+name = input ("what's your name ? ")
+print (name)
 
