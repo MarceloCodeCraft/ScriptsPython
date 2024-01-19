@@ -34,5 +34,7 @@
 # print(msg)
 #print('ola mundo')
 name = input ("what's your name ? ")
-print (name)
+age = input ("what is your Age ? ")
+print ('Seu nome é: ' + name + ' Sua idade é: ' + age)
+
 
